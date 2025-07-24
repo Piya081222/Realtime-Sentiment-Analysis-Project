@@ -9,5 +9,7 @@ env/
 # Ignore environment variables file
 .env
 
+secrets/
+
 # Ignore VS Code specific files (optional, but good practice)
 .vscode/
